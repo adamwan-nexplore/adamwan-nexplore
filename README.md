@@ -9,8 +9,8 @@ Check our [guidebook](https://github.com/adamwan-nexplore/guidebook-nxp-hk) for 
 
 - 👋 Hi, I’m Adam Wan
 - 👀 I’m interested in creating great stuff
-- 🌱 I’m currently learning being a better me
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning to be a better me
+- 💞️ I’m looking for a good way to learn more
 - 📫 How to reach me through [LinkedIn](https://hk.linkedin.com/in/adamhk)
 
 <!---
