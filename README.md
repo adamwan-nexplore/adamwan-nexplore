@@ -11,7 +11,7 @@ Check our [guidebook](https://github.com/adamwan-nexplore/guidebook-nxp-hk) for 
 - 👀 I’m interested in creating great stuff
 - 🌱 I’m currently learning to be a better me
 - 💞️ I’m looking for a good way to learn more
-- 📫 How to reach me through [LinkedIn](https://hk.linkedin.com/in/adamhk)
+- 📫 How to reach me - through [LinkedIn](https://hk.linkedin.com/in/adamhk)
 
 <!---
 adamwan-nexplore/adamwan-nexplore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
