@@ -1,4 +1,4 @@
-# [NEXPLRE](https://www.nexplore.com) HK is now hiring engineers!
+# [NEXPLORE](https://www.nexplore.com) HK is now hiring engineers!
 
 Check our JDs [here](https://hk.jobsdb.com/hk/search-jobs/nexplore).
 
