@@ -13,7 +13,6 @@ Check our [guidebook](https://github.com/adamwan-nexplore/guidebook-nxp-hk) for 
 - 💞️ I’m looking for a good way to learn more
 - 📫 How to reach me - through [LinkedIn](https://hk.linkedin.com/in/adamhk)
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamwan-nexplore)
 <!---
 adamwan-nexplore/adamwan-nexplore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
