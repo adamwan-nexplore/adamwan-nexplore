@@ -2,7 +2,7 @@
 
 Check our JDs [here](https://hk.jobsdb.com/hk/search-jobs/nexplore).
 
-Check our [guidebook](https://github.com/adamwan-nexplore/guidebook-nxp-hk) for Hong Kong Development Center.
+Check our [guidebook](https://github.com/adamwan-nexplore/guidebook-nxp-hk) for Hong Kong Development Centre.
 
 -----
 # Something about myself
