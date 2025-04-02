@@ -5,7 +5,7 @@ Check our JDs [here](https://hk.jobsdb.com/hk/search-jobs/nexplore).
 Check our [guidebook](https://github.com/adamwan-nexplore/guidebook-nxp-hk) for Hong Kong Development Centre.
 
 -----
-# Something about myself
+# Something about me
 
 - 👋 Hi, I’m Adam Wan
 - 👀 I’m interested in creating great stuff
